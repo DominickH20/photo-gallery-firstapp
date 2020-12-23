@@ -1,0 +1,7 @@
+{
+  "name": "photo-gallery-firstapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
